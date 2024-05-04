@@ -1,0 +1,171 @@
+{
+    "adjectives": {
+        "sensory": [
+            "Whispering",
+            "Shimmering",
+            "Glittering",
+            "Glowing",
+            "Humming",
+            "Foul-smelling",
+            "Metallic", 
+            "Mossy",
+            "Earthen",
+            "Pungent"
+        ],
+        "emotional": [
+            "Desolate",
+            "Foreboding",
+            "Tranquil",
+            "Hopeful",
+            "Treacherous",
+            "Enigmatic",
+            "Ominous",
+            "Mystical",
+            "Serene",
+            "Oppressive" 
+        ],
+        "temporal": [
+            "Ancient",
+            "Timeless",
+            "Ephemeral",
+            "Forgotten",
+            "Age-Old",
+            "Fleeting",
+            "Newborn",
+            "Everlasting",
+            "Decaying",
+            "Momentary"
+        ]
+    },
+    "places": {
+        "natural": [
+            "Forest",
+            "Jungle",
+            "Mountain",
+            "Swamp",
+            "Desert",
+            "Volcano", 
+            "Glacier",
+            "Canyon",
+            "Tundra",
+            "Ocean Depths" 
+        ],
+        "constructed": [
+            "Ruins",
+            "Citadel",
+            "Tower",
+            "Tomb",
+            "Labyrinth",
+            "Monastery",
+            "Outpost",
+            "Battlefield",
+            "Shipwreck",
+            "Abandoned City"
+        ],
+        "fantastical": [
+            "Dreamscape",
+            "Floating Islands",
+            "Crystal Cavern",
+            "Mirror Dimension",
+            "Astral Sea",
+            "Elemental Plane",
+            "Shadow Realm",
+            "Time Vortex",
+            "Underworld",
+            "Fae Court" 
+        ]
+    },
+    "objects_creatures": {
+        "people": [
+            "Saint",
+            "Duke",
+            "Mage",
+            "Mistress",
+            "Knight"
+        ],
+        "artifacts": [
+            "Orb",
+            "Mask",
+            "Amulet",
+            "Tome",
+            "Statue",
+            "Tablet",
+            "Chalice",
+            "Crown",
+            "Scepter",
+            "Mirror"
+        ],
+        "creatures": [
+            "Elemental",
+            "Dragon",
+            "Wraith",
+            "Shapeshifter",
+            "Golem",
+            "Automaton",
+            "Chimera",
+            "Sphinx",
+            "Shadow Creature",
+            "Nightmare Beast"  
+        ],
+        "mammals" : [
+            "Bat", 
+            "Wolf", 
+            "Elephant", 
+            "Lion", 
+            "Bear", 
+            "Whale", 
+            "Dolphin", 
+            "Tiger", 
+            "Fox", 
+            "Deer", 
+            "Giraffe", 
+            "Zebra", 
+            "Panda", 
+            "Koala", 
+            "Monkey", 
+            "Gorilla", 
+            "Hippopotamus", 
+            "Rhinoceros", 
+            "Camel", 
+            "Sloth"
+        ],
+        "birds" : [
+            "Eagle", 
+            "Hawk", 
+            "Owl", 
+            "Raven", 
+            "Parrot", 
+            "Peacock", 
+            "Hummingbird", 
+            "Woodpecker", 
+            "Crane",
+            "Kingfisher", 
+            "Swan", 
+            "Goose", 
+            "Ostrich", 
+            "Emu", 
+            "Vulture", 
+            "Seagull", 
+            "Albatross" 
+        ],
+        "insects" : [
+            "Butterfly", 
+            "Moth", 
+            "Beetle", 
+            "Ant", 
+            "Bee", 
+            "Wasp", 
+            "Dragonfly", 
+            "Grasshopper", 
+            "Cricket", 
+            "Firefly", 
+            "Mantis", 
+            "Mosquito", 
+            "Fly", 
+            "Cicada", 
+            "Spider", 
+            "Scorpion", 
+            "Centipede"
+        ]
+    }
+}
